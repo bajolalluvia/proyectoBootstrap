@@ -1,0 +1,9 @@
+.navbar{
+    background-color: blue !important;
+}
+.navbar -brand{
+    background-color: brown !important;
+}
+.nav-item{
+    float: right !important;
+}
